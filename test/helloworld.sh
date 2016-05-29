@@ -1,1 +1,1 @@
-edho "hello,world"
+echo "hello,world"
